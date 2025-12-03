@@ -1,0 +1,10 @@
+1 Ravi 90.50
+2 Priya 85.00
+3 Ananya 92.50
+4 Divya 94.00
+5 Mohan 80.75
+6 Sneha 89.00
+7 Rahul 78.25
+8 Gayatri 95.00
+9 Arjun 87.50
+10 Riya 84.00
